@@ -1,0 +1,17 @@
+/* Empty. Add your own CSS if you like */
+.padding{
+      background: url("fondo.jpg")center no-repeat fixed;
+      -webkit-background-size:cover;
+      -moz-background-size:cover;
+      -o-background-size:cover;
+      background-size:cover;
+}
+#title{
+  font-size: 18px;
+  color:white;
+  text-align: center;
+}
+#barra{
+  background-color: red;
+
+}
